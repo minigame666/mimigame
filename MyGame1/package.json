@@ -1,0 +1,22 @@
+{
+  "name": "MyTestGame",
+  "uuid": "f9175f15-463a-4e8a-8e70-79f9b6770e9e",
+  "version": "3.6.0",
+  "creator": {
+    "version": "3.6.0"
+  },
+  "scripts": {
+    "lint": "eslint --fix & prettier --write src/**"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^2.2.1"
+  },
+  "_sourceId": "22f2bc02-2d37-4974-8737-adc77bb1b348",
+  "_storeId": "bae17241026be32df01e4436669ccb59"
+}
